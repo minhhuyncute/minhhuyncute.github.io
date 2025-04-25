@@ -63,7 +63,7 @@ const messages = [
     "Đừng màaaaa",
     "Em sẽ siêu siêu siêu buồn đấy",
     "Thôi được rồi, em hong hỏi nữa.....",
-    "Just kidding, say yes please! ❤️"
+    "Đùa hoyy, say yes please! ❤️"
 ];
 
 let messageIndex = 0;
