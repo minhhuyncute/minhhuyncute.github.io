@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-    "Chị chắc hongg?",
-    "Chị chắc chắng honggggg??",
-    "Mình hong thay đổi chứu?",
-    "Chị Huyền đáng iu oi...",
-    "Nghĩ lại đi màa!",
-    "Min Huyn cute đáng iu nhất",
-    "Đừng màaaaa",
+    "Chị chắc chưa?",
+    "Chị chắc chắng chưaaaa??",
+    "Min huyn xinh đẹp ơi?",
+    "Min Hyn cute đáng iu ơii???",
+    "Nghĩ lại đi chị yêuu!",
+    "Nếu chị nói hong em sẽ bùn lắmmm...",
     "Em sẽ siêu siêu siêu buồn đấy",
-    "Thôi được rồi, em hong hỏi nữa.....",
+    "ĐỪNG MÀAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA...",
+    "Thôi được rồi, em sẽ không hỏi nữa...",
     "Đùa hoyy, say yes please! ❤️"
 ];
 
